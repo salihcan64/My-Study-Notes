@@ -1,1 +1,18 @@
 
+#*Creating Python Virtual Enviroment*
+
+mkdir <YOURPROJECT>: Create a new project
+
+cd <YOURPROJECT>: Change directory to that project
+
+virtualenv <NEWVIRTUALENV>: Creating a new virtualenv
+
+source <NEWVIRTUALENV>/bin/activate: Activating that new virtualenv
+
+Run this code. It will get activated if you are on a Windows machine:
+
+source venv/Scripts/activate
+
+Run this code. It will get activated if you are on a Linux or Mac machine:
+
+. venv/bin/activate
