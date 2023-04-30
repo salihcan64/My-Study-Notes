@@ -1,6 +1,11 @@
 
 # Creating Python Virtual Enviroment
 
+### **Creating a virtual environment can be done using the command shown below:**
+
+**python3 -m venv /path_to_new_virtual_environment**
+
+
 mkdir <YOURPROJECT>: Create a new project
 
 cd <YOURPROJECT>: Change directory to that project
